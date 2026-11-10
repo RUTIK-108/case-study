@@ -1,0 +1,13 @@
+{
+    "MAE": 45.212,
+    "RMSE": 68.438,
+    "R2": 0.9037,
+    "Selected_Model": "XGBoost",
+    "Best_Parameters": {
+        "subsample": 1.0,
+        "n_estimators": 150,
+        "max_depth": 6,
+        "learning_rate": 0.08,
+        "colsample_bytree": 0.8
+    }
+}

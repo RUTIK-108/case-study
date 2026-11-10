@@ -1,0 +1,19 @@
+[
+    "season",
+    "yr",
+    "holiday",
+    "workingday",
+    "weathersit",
+    "temp",
+    "atemp",
+    "hum",
+    "windspeed",
+    "hour_sin",
+    "hour_cos",
+    "weekday_sin",
+    "weekday_cos",
+    "month_sin",
+    "month_cos",
+    "is_peak_hour",
+    "is_weekend"
+]
